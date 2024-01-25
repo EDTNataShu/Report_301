@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cf24b9fb-cdc6-4b21-8503-51cc2e64a32f">
+  <producedTypes>
+    <objectType typeId="54fa4c58-3f11-4e3a-a864-ed8bb39e4c72" valueTypeId="9f0bf211-d0d9-45e5-a838-972b64bcc19b"/>
+  </producedTypes>
+  <name>НачалоРабочегоДня</name>
+  <synonym>
+    <key>ru</key>
+    <value>Начало рабочего дня</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="8f1471fd-e363-4756-8007-e4a5ea1c6e8b"/>
+  <defaultForm>ExternalDataProcessor.НачалоРабочегоДня.Form.Форма</defaultForm>
+  <forms uuid="b8a5faab-0fa8-45cd-8a18-ff0520f0eaf9">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
